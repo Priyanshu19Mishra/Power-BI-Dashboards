@@ -1,1 +1,2 @@
 # Power-BI-Dashboards
+Power BI is a powerful business analytics service developed by Microsoft that provides interactive visualizations and business intelligence (BI) capabilities with an interface simple enough for end users to create their own reports and dashboards. It allows users to connect to multiple data sources, transform and analyze data, and visualize it through a wide variety of charts, graphs, and other data visualizations.
