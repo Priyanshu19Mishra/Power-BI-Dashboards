@@ -27,4 +27,12 @@ Power Pivot is used for advanced data modeling, enabling users to create relatio
 
 A Power BI dashboard is a single-page, visual representation of key metrics, reports, and data insights. It provides a high-level overview of important information by aggregating data from various sources, allowing users to monitor key metrics and make data-driven decisions. Unlike Power BI reports, which can have multiple pages and detailed data visualizations, a dashboard is focused on displaying the most critical data in a concise and interactive manner.
 
+Tiles: Tiles are the individual visual components on the dashboard. Each tile represents a visualization, such as a chart, graph, KPI, or card, and can be pinned from a report. Users can click on these tiles to drill down into the underlying reports for more detailed analysis.
+
+Interactive Visuals:Power BI dashboards offer interactive visuals that are automatically updated when the data source is refreshed. Users can interact with the tiles to explore data and gain insights. For example, clicking on a visual may filter or highlight related data across other visuals in the report.
+
+Data Sources: Power BI dashboards aggregate data from a variety of sources, including databases (SQL Server, MySQL), cloud services (Azure, Google Analytics), files (Excel, CSV), APIs, and live streaming data. This flexibility allows you to visualize data from multiple platforms in one place.
+
+Real-time Data:Power BI dashboards support real-time data streaming, allowing you to see data changes as they happen. This is useful for scenarios like monitoring IoT devices, social media trends, or live sales data.
+
 
