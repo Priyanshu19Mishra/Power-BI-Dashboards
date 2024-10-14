@@ -41,4 +41,10 @@ Customization: Power BI dashboards can be customized according to users' prefere
 
 Mobile Accessibility: Power BI offers a mobile app (available on iOS, Android, and Windows) that allows users to view and interact with dashboards on the go. The dashboards are responsive and adapt to different screen sizes.
 
+Natural Language Queries: Power BI dashboards support Q&A features, allowing users to type natural language questions to explore the data (e.g., "What were the sales last quarter?" or "Show sales by region"). Power BI will generate visualizations based on the queries.
+
+Sharing and Collaboration: Dashboards can be shared across teams or with specific users in Power BI by publishing them to a workspace. Shared users can view and interact with the dashboard but may not have permission to modify it unless given access. Power BI Pro or Premium licenses are required for sharing outside of your organization.
+
+Alerts and Notifications: Power BI supports alerts on dashboard tiles, especially for KPIs and metrics. Users can set thresholds for specific data points, and Power BI will notify them via email when certain conditions are met (e.g., sales drop below a set number).
+
 
