@@ -24,3 +24,7 @@ f. Power BI Report Server : A special type of server that allows hosting Power B
 
 g. Power Query and Power Pivot : Power Query is used for data transformation and preparation, allowing users to clean and shape the data.
 Power Pivot is used for advanced data modeling, enabling users to create relationships between tables and use DAX (Data Analysis Expressions) formulas for complex calculations.
+
+A Power BI dashboard is a single-page, visual representation of key metrics, reports, and data insights. It provides a high-level overview of important information by aggregating data from various sources, allowing users to monitor key metrics and make data-driven decisions. Unlike Power BI reports, which can have multiple pages and detailed data visualizations, a dashboard is focused on displaying the most critical data in a concise and interactive manner.
+
+
