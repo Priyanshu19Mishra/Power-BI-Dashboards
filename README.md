@@ -35,4 +35,10 @@ Data Sources: Power BI dashboards aggregate data from a variety of sources, incl
 
 Real-time Data:Power BI dashboards support real-time data streaming, allowing you to see data changes as they happen. This is useful for scenarios like monitoring IoT devices, social media trends, or live sales data.
 
+KPI and Metrics: Dashboards allow you to track key performance indicators (KPIs) and metrics by displaying data like sales targets, financials, or customer engagement in real time. Users can create KPI tiles that display how a specific value compares to a goal.
+
+Customization: Power BI dashboards can be customized according to users' preferences. You can change the layout, resize visuals, and modify the theme. Additionally, users can adjust data filters and slicers to view different subsets of the data.
+
+Mobile Accessibility: Power BI offers a mobile app (available on iOS, Android, and Windows) that allows users to view and interact with dashboards on the go. The dashboards are responsive and adapt to different screen sizes.
+
 
