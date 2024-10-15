@@ -47,4 +47,8 @@ Sharing and Collaboration: Dashboards can be shared across teams or with specifi
 
 Alerts and Notifications: Power BI supports alerts on dashboard tiles, especially for KPIs and metrics. Users can set thresholds for specific data points, and Power BI will notify them via email when certain conditions are met (e.g., sales drop below a set number).
 
+Use Cases for Power BI Dashboards:
+Sales Performance Monitoring:
+Dashboards can provide an at-a-glance view of sales performance, tracking sales targets, revenue, and customer behavior in real-time.
+
 
