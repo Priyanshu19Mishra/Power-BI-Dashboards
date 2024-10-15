@@ -51,4 +51,7 @@ Use Cases for Power BI Dashboards:
 Sales Performance Monitoring:
 Dashboards can provide an at-a-glance view of sales performance, tracking sales targets, revenue, and customer behavior in real-time.
 
+Operational Insights:
+Dashboards can help operations teams monitor processes like inventory levels, order fulfillment, and supply chain metrics, ensuring smooth operations.
+
 
