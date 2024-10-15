@@ -57,4 +57,7 @@ Dashboards can help operations teams monitor processes like inventory levels, or
 Executive Dashboards:
 Senior management can use dashboards to visualize critical business metrics such as overall profitability, performance by region, or project status.
 
+Financial Analysis:
+Dashboards are frequently used to display financial KPIs, cash flow, and budget tracking, enabling CFOs to make strategic decisions based on the data.
+
 
