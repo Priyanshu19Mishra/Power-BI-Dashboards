@@ -54,4 +54,7 @@ Dashboards can provide an at-a-glance view of sales performance, tracking sales 
 Operational Insights:
 Dashboards can help operations teams monitor processes like inventory levels, order fulfillment, and supply chain metrics, ensuring smooth operations.
 
+Executive Dashboards:
+Senior management can use dashboards to visualize critical business metrics such as overall profitability, performance by region, or project status.
+
 
