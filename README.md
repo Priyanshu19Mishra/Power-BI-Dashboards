@@ -60,5 +60,5 @@ Senior management can use dashboards to visualize critical business metrics such
 Financial Analysis:
 Dashboards are frequently used to display financial KPIs, cash flow, and budget tracking, enabling CFOs to make strategic decisions based on the data.
 
-In this repo, different images showing the dashboards has been added.
+In this repo, different images showing the dashboards has been added. 1.png shows "Bevarage Sales dashboard" created on a beverage dataset.
 
