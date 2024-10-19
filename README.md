@@ -63,5 +63,6 @@ Dashboards are frequently used to display financial KPIs, cash flow, and budget 
 In this repo, different images showing the dashboards has been added.
 "Bevarage Sales dashboard" created on a beverage dataset.
 "Sales Analysis Dashboard". This is created on the employee dataset with the analysis details of the sale together. 
+"Customer Segmentation Dashboard". This is created on the same dataset of Employee details.
 
 
