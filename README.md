@@ -66,7 +66,7 @@ In this repo, different images showing the dashboards has been added.
 "Customer Segmentation Dashboard". This is created on the same dataset of sales details.
 "Finance Dashboard". This is also created on the finance dataset. 
 "Employee Performance Dashboard". This is created on the Employee details dataset. 
-All these dashborad designs are very crucial for business analystics. Improving these designs using AI is the next step ahead in this field. Many researches are processing ahead to add varios AI techinques with business analytics to make the task more simpler and appropriate and ease to human cycle.
+All these dashborad designs are very crucial for business analystics. Improving these designs using AI is the next step ahead in this field. Many researches are processing ahead to add varios AI techinques with business analytics to make the task more simpler and appropriate and ease to human cycle. Recent trends are working in the field of connecting NLP in business analytics. 
 
 
 
