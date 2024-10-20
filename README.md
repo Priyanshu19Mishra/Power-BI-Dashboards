@@ -66,6 +66,7 @@ In this repo, different images showing the dashboards has been added.
 "Customer Segmentation Dashboard". This is created on the same dataset of sales details.
 "Finance Dashboard". This is also created on the finance dataset. 
 "Employee Performance Dashboard". This is created on the Employee details dataset. 
+All these dashborad designs are very crucial for business analystics.
 
 
 
